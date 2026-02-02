@@ -1,6 +1,6 @@
 # HAProxy - Gestion de File d'Attente avec Flask
 
-Ce dépôt contient une infrastructure prête à l'emploi pour utiliser HAProxy comme répartiteur de charge HTTP avec gestion de rate-limiting et de file d'attente pour les utilisateurs, via un service Flask personnalisé.
+Ce dépôt contient une infrastructure prête à l'emploi pour utiliser HAProxy comme load balancer HTTP avec gestion de rate-limiting et de file d'attente pour les utilisateurs, via un service Flask personnalisé.
 
 ## Fonctionnalités principales
 
