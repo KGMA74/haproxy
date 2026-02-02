@@ -75,5 +75,3 @@ HAProxy sera disponible sur le port 80 et le service Flask également accessible
 Ce dépôt a été généré et maintenu par [KGMA74](https://github.com/KGMA74).
 
 ## Licence
-
-(Si une licence open source doit être ajoutée, créer un fichier `LICENSE`.)
